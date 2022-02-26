@@ -1,0 +1,250 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief state of the case and tryal had in the Kings Bench, in the assize brought for the Office of Chief Clerk for inrolling of pleas in the said court; between William Bridgeman, Esq; plantiff; and Rowland Holt, Esq; and Edward Coleman, Gent. defendants</title>
+            <author>Bridgeman, William, Esq.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77472</idno>
+            <idno type="STC">Wing B4648A</idno>
+            <idno type="STC">ESTC R211057</idno>
+            <idno type="EEBO-CITATION">99895579</idno>
+            <idno type="PROQUEST">99895579</idno>
+            <idno type="VID">153062</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77472)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153062)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2344:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief state of the case and tryal had in the Kings Bench, in the assize brought for the Office of Chief Clerk for inrolling of pleas in the said court; between William Bridgeman, Esq; plantiff; and Rowland Holt, Esq; and Edward Coleman, Gent. defendants</title>
+                  <author>Bridgeman, William, Esq.</author>
+                  <author>Holt, Rowland, Esq.</author>
+                  <author>Coleman, Edward, gent.</author>
+                  <author>England and Wales. Court of King's Bench.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Isaac Cleave, next Serjeants Inne, in Chancery-lane,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1694]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Register begins with quire B.</note>
+                  <note>Reproduction of original in the Henry E. Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Court of King's Bench --  Early works to 1800.</term>
+               <term>Administrative procedure --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb n="1" facs="tcp:153062:1"/>
+            <head>A brief State of the Caſe and Tryal had in the <hi>Kings Bench,</hi> in the Aſſize brought for the Office of Chief Clerk for inrolling of Pleas in the ſaid Court; between <hi>William Bridge<g ref="char:EOLhyphen"/>man,</hi> 
+               <abbr>Eſq</abbr> Plantiff; and <hi>Rowland Holt,</hi> 
+               <abbr>Eſq</abbr> and <hi>Edward Coleman,</hi> Gent. Defen<g ref="char:EOLhyphen"/>dants.</head>
+            <p>THe Plaintiff declares that the Office of Chief Clerk for the inrolling of Pleas in the Court of <hi>Kings Bench,</hi> was time out of mind granted and grantable by the Kings and Queens of this Realm: And that King <hi>Charles</hi> II. by Letters Patents under the great Seal of <hi>England,</hi> dated 2 <hi>June,</hi> 25 of his Reign (reciting that he had by his Letters Patents, 1 <hi>July,</hi> 14 of his Reign (after a recital therein that <hi>Robert Henly</hi> and <hi>Samuel Wightwicke</hi> were duly admitted to this Office for their lives) granted this Office (upon the Petition of <hi>Elliot</hi>) to <hi>Silas Titus</hi> ſo ſoon as it ſhould become void, and that <hi>Wightwicke</hi> was dead, and <hi>Titus</hi> had ſurrendred his Patent) did, in conſiderati<g ref="char:EOLhyphen"/>on of ſervice done by the Earl of <hi>Arlington,</hi> grant this Office to the Plaintiff and his heirs, for the lives of the Earl of <hi>Arlington,</hi> Duke of <hi>Grafton,</hi> and Dutcheſs of <hi>Grafton,</hi> and the longer liver of them, from and after the death, forfeiture, or ſurrender of Sir <hi>Robert Henly.</hi> And that Sir <hi>Robert Henly</hi> was dead; and that thereupon the Plaintiff became ſeized, and was ſeized of the Of<g ref="char:EOLhyphen"/>fice till the Defendants diſſeized him, <hi>&amp;c.</hi>
+            </p>
+            <p>The Defendants pleaded that they did no wrong or diſſeizin to the Plaintiff, which is the General Iſſue.</p>
+            <p>The Recognitors were,
+<list>
+                  <item>Sir <hi>John Wolſtenholm</hi> of <hi>Enfeild,</hi> Bar.</item>
+                  <item>Sir <hi>William Hedges</hi> of <hi>Finchley,</hi> Knight.</item>
+                  <item>
+                     <hi>Ralph Bucknell,</hi> of St. <hi>Giles in the Fields,</hi> Eſquire.</item>
+                  <item>
+                     <hi>George Ford,</hi> of <hi>Bromely,</hi> 
+                     <abbr>Eſq</abbr>
+                  </item>
+                  <item>
+                     <hi>William <g ref="char:V">Ʋ</g>nderhill,</hi> of <hi>Cripplegate,</hi> 
+                     <abbr>Eſq</abbr>
+                  </item>
+                  <item>
+                     <hi>John Raymund,</hi> of <hi>Highgate,</hi> 
+                     <abbr>Eſq</abbr>
+                  </item>
+                  <item>
+                     <hi>John Smith,</hi> of <hi>Hackney,</hi> 
+                     <abbr>Eſq</abbr>
+                  </item>
+                  <item>
+                     <hi>William Northy,</hi> of the ſame, <abbr>Eſq</abbr>
+                  </item>
+                  <item>
+                     <hi>Edward Harris,</hi> of <hi>Southgate,</hi> 
+                     <abbr>Eſq</abbr>
+                  </item>
+                  <item>
+                     <hi>Daniel Thomas,</hi> of <hi>Highgate,</hi> 
+                     <abbr>Eſq</abbr>
+                  </item>
+                  <item>
+                     <hi>Abraham Daſhwood,</hi> of <hi>Cripplegate,</hi> 
+                     <abbr>Eſq</abbr>
+                  </item>
+                  <item>
+                     <hi>Arthur Baily,</hi> of <hi>Mile end,</hi> 
+                     <abbr>Eſq</abbr>
+                  </item>
+               </list>
+            </p>
+            <p>The Plaintiff gave no Evidence but the Letters Patents of 2 <hi>June,</hi> 25 <hi>Car.</hi> 2. And being put to ſhew that the Office was
+<pb n="2" facs="tcp:153062:2"/>
+anciently granted by the Kings and Queens of <hi>England,</hi> accord<g ref="char:EOLhyphen"/>ing as he had declared; he did ſhew none but the Patent of King <hi>Charles</hi> II.</p>
+            <p>Though the Plaintiffs Grant were to him and his heirs (which ought not to be of ſuch an Office, for ſo it might come to an In<g ref="char:EOLhyphen"/>fant) yet the Defendants Councel waved that juſt exception, and inſiſted upon the meer right of Granting the ſaid Office, <hi>(viz.)</hi> That it was not grantable by the Crown, but was an Office be<g ref="char:EOLhyphen"/>longing to the chief Juſtice of the <hi>Kings Bench,</hi> and only grant<g ref="char:EOLhyphen"/>able by him.</p>
+            <p>And for proof hereof it was ſhewed, that this Officer is to in<g ref="char:EOLhyphen"/>roll the Pleas between party and party only, and had nothing to do in the Pleas of the Crown, or Criminal matters. That all the Rolls and Records in this Office were in the cuſtody of the Chief Juſtice; who with his own Money pays for the Parchment of all thoſe Rolls and Records, and all Writs to certifie or re<g ref="char:EOLhyphen"/>move the Records in this Clerks Office are directed to the Chief Juſtice; and this Officer is in truth but his Clerk, and the Office grantable by him alone, for any life, or two lives, when void.</p>
+            <p>And for further proof of the Chief Juſtices right to grant this Office, it was ſhewed and proved by the Records of the Court, that for the ſpace and time of 235 years laſt paſt, this Office, when void, had been granted ſucceſſively by the Chief Juſtice for the time being, to whom he pleaſed, and enjoyed accord<g ref="char:EOLhyphen"/>ingly by ſuch grants; which was plainly made out by the follow<g ref="char:EOLhyphen"/>ing Records.</p>
+            <p>
+               <note place="margin">
+                  <hi>Trin.</hi> 36 <hi>H.</hi> 6. <hi>Rot.</hi> 36. <hi>int. placita Reg. A. Dom.</hi> 1458. 235 years ſince.</note>It is inrolled thus: Be it remembred that the tenth of <hi>July</hi> this Term, in the Court of our Lord the King at <hi>Weſtminſter,</hi> came <hi>William Sonde,</hi> Chief Clerk of our Lord the King for enrolling Pleas before the King himſelf in his proper perſon, and in the ſame Court, of his Free Will did ſurrender his ſaid Office into the hands of Sir <hi>John Forteſcue,</hi> Knight, Chief Juſtice of the Court (to whom of right it doth belong to grant that Office to whomſoever he pleaſeth, whenſoever that Office ſhall be void, during the time that the ſaid Sir <hi>John Forteſcue</hi> ſhall be Chief Ju<g ref="char:EOLhyphen"/>ſtice,) and that Office doth reſign and relinquiſh to the uſe of <hi>William Brome.</hi> And the ſaid Chief Juſtice doth accept the ſame ſurrender, and the ſame day grants the ſaid Office to the ſaid <hi>William Brome,</hi> who is preſently admitted to the ſaid Office for his life, and ſworn accordingly.</p>
+            <p>
+               <note place="margin">
+                  <hi>Mich.</hi> 1. <hi>E.</hi> 14. <hi>Rot.</hi> 51.</note>Upon <hi>Bromes</hi> ſurrender to Sir <hi>John Markham,</hi> then Chief Ju<g ref="char:EOLhyphen"/>ſtice; the Chief Juſtice grants it to <hi>William Sonde,</hi> who is admit<g ref="char:EOLhyphen"/>ted for life, and ſworn.</p>
+            <p>
+               <note place="margin">
+                  <hi>Mich.</hi> 8 <hi>E.</hi> 4. <hi>Rot.</hi> 26. 1467.</note>Upon the ſurrender of <hi>William Sonde</hi> to the ſaid Sir <hi>John Mark<g ref="char:EOLhyphen"/>ham,</hi> then Chief Juſtice; he grants it to <hi>Reginald Sonde,</hi> who is admitted and ſworn.</p>
+            <p>
+               <hi>Reginald Sonde</hi> enjoyed this till the time of <hi>H.</hi> 7. and then <hi>Bray</hi> came in, and was Clerk till 13 <hi>H.</hi> 7. and then came in <hi>Roper.</hi>
+            </p>
+            <p>
+               <pb n="3" facs="tcp:153062:2"/>Upon Surrender of this Office to Sir <hi>John Fineux</hi> Chief Juſtice,<note place="margin">
+                  <hi>Hil.</hi> 9 <hi>H.</hi> 8. <hi>Rot.</hi> 3. 1518.</note> by <hi>John Roper,</hi> the Chief Juſtice grants the Office to Sir <hi>John Ro<g ref="char:EOLhyphen"/>per</hi> and <hi>William Roper,</hi> who are admitted for their lives, and ſworn.</p>
+            <p>Upon Surrender of <hi>William Roper</hi> (Sir <hi>John</hi> being dead) to Sir <hi>Richard Liſler</hi> then Chief Juſtice,<note place="margin">
+                  <hi>Hil.</hi> 1 <hi>&amp;</hi> 2 <hi>E.</hi> 6. 1547.</note> he grants the Office to <hi>Willi<g ref="char:EOLhyphen"/>am Roper</hi> and <hi>Richard Heywood</hi> for their lives, and they are ad<g ref="char:EOLhyphen"/>mitted and ſworn.</p>
+            <p>Upon Surrender of <hi>William Roper (Heywood</hi> being dead) to Sir <hi>Robert Catlin</hi> then Chief Juſtice,<note place="margin">
+                  <hi>Hil.</hi> 15 <hi>El.</hi> 1573.</note> he granted this Office to <hi>John Roper</hi> and <hi>Thomas Roper</hi> for their lives, and they are ad<g ref="char:EOLhyphen"/>mitted and ſworn.</p>
+            <p>Upon Surrender of <hi>John Roper (Tho.</hi> being dead) to Sir <hi>Henry Montague</hi> then Chief Juſtice,<note place="margin">
+                  <hi>Mich.</hi> 14 <hi>Jac.</hi> 1. <hi>Rot.</hi> 2. 1616.</note> he grants this Office to <hi>Robert Heath</hi> and <hi>Robert Shute</hi> for their lives, who are admitted and ſworn thereupon.</p>
+            <p>
+               <hi>Shute</hi> being dead,<note place="margin">
+                  <hi>Hil.</hi> 14. <hi>Jac.</hi> 1. 1620.</note> upon Sir <hi>Robert Heath</hi>'s Surrender to Sir <hi>James Leigh</hi> Chief Juſtice, he grants the Office to Sir <hi>Robert Heath</hi> and <hi>George Paul</hi> for their lives, and they are ſworn, and admitted in Court.</p>
+            <p>Upon the Surrender of Sir <hi>Robert Heath</hi> and Sir <hi>George Paul</hi> to Sir <hi>Nicholas Hide</hi> then Chief Juſtice,<note place="margin">
+                  <hi>Mich.</hi> 5 <hi>Car.</hi> 1.</note> he grants it to <hi>Robert Henly</hi> and <hi>Samuel Wightwicke</hi> for their lives, and they are admitted and ſworn.</p>
+            <p>Upon <hi>Wightwicke</hi>'s Surrender to <hi>H. Roll</hi> then Chief Juſtice,<note place="margin">
+                  <hi>Trin.</hi> 1654. <hi>Rot.</hi> 1.</note> (<hi>Henly</hi> being then under Sequeſtration) the Chief Juſtice grants it to <hi>Samuel Wightwicke</hi> and <hi>Robert Henly</hi> junior, for their lives, and they are admitted and ſworn.</p>
+            <p>Upon the Surrender of <hi>Samuel Wightwicke</hi> and <hi>Robert Henly</hi> to Sir <hi>Robert Foſter</hi> then Chief Juſtice,<note place="margin">
+                  <hi>Mich.</hi> 12 <hi>Car.</hi> 2. <hi>Rot.</hi> 2.</note> he grants it to <hi>Henly</hi> and <hi>Wightwicke</hi> for their lives, and they were admitted and ſworn.</p>
+            <p>
+               <hi>Wightwicke</hi> dyed ſoon after, and Sir <hi>Robert Henly</hi> enjoyed it under that Grant 32 year.</p>
+            <p>Note, In every one of theſe Records (except the laſt) after the mention of the Surrender to the Chief Juſtice, are theſe words, (To whom of Right it doth belong to grant that Office to whomſoever he pleaſeth, when it ſhall be void, <hi>&amp;c.</hi>)</p>
+            <p>It was then inſiſted by the Defendants, and proved that there was three Officers conſiderable in the Court of <hi>Kings Bench,</hi> all of the nature of Clerks.</p>
+            <p>The firſt and chiefeſt is the Clerk of the Crown, called ſome<g ref="char:EOLhyphen"/>times <hi>Coronator. &amp; Attornat. Domini Regis, &amp;c.</hi> His buſineſs is to draw all Indictments, Informations, <hi>&amp;c.</hi> in Pleas of the Crown, and Criminal matters. This Officer being the Chief Clerk in this Court, is always made by Patent under the Great Seal.</p>
+            <p>The ſecond Officer is this Prothonotary, or Chief Clerk, for enrolling Pleas between party and party in Civil matters. He,
+<pb n="4" facs="tcp:153062:3"/>
+and his Under Clerks, enroll all Declarations, Pleadings, <hi>&amp;c.</hi> in Civil Cauſes, eſpecially where the proceedings are upon Bill. This Officer files in his Office all Bills, Declarations, <hi>&amp;c.</hi> and all the Writs of this Court in Civil matters are made by him and his Under Clerks. and teſted by the Chief Juſtice; and he hath the cuſtody of all Returns of <hi>Elegits,</hi> Executions, <hi>Scire fac.</hi>'s, and the fileing all Bails: All which are in the eye and Judgment of the Law, in the hands of the Chief Juſtice, whoſe Clerk in truth this Officer is.</p>
+            <p>The third Officer is the <hi>Cuſtos Bre.</hi> who keeps all the Rolls and Records of Judgments in this Court, which are yet ſaid to be in the Cuſtody of the Chief Juſtice; and this Office is in the gift and diſpoſal of the Chief Juſtice, when void.</p>
+            <p>It was further ſhewed by the Defendants, that in the Stat. of <hi>E.</hi> 6. againſt the Sale of Offices, <hi>&amp;c.</hi> there is yet a Salvo to the two Chief Juſtices and Juſtices of Aſſize, to diſpoſe of the Of<g ref="char:EOLhyphen"/>fices in their diſpoſition, as they uſed formerly; and ever ſince that Statute, theſe Offices of Chief Clerk to enroll the Pleas, <hi>&amp;c.</hi> and the <hi>Cuſtos Bre.</hi> have without controll been diſpoſed by the Chief Juſtice of this Court; and are in truth the only conſi<g ref="char:EOLhyphen"/>derable Offices in his gift.</p>
+            <p>It was obſerved that in the Grant of this Office to Mr. <hi>Bridg<g ref="char:EOLhyphen"/>man</hi> the Plaintiff, it is recited that <hi>Henly</hi> and <hi>Wightwicke</hi> were <hi>debit. modo</hi> admitted to this Office, yet they never had any Grant from the Crown, nor no other Grant ſave that of the Chief Juſtice before-mentioned.</p>
+            <p>And then to prove that the Defendants have a good Title to the Office, the Grant of the now Chief Juſtice to them for their lives was produced, and proved that they were admitted, and ſworn in Court.</p>
+            <p>To anſwer all this Evidence: The Plaintiffs Council produced the Copy of an Act of Parliament, which was made 15 <hi>E.</hi> 3. to this effect; It is conſented, that if any of the Offices aforeſaid (which are other great Offices mentioned in the Act) or the Con<g ref="char:EOLhyphen"/>troller or Chief Clerk in the Common Bench or <hi>Kings Bench,</hi> by death or other cauſe be ouſted of their Office, the King, with the conſent of the great men, <hi>&amp;e.</hi> ſhall put another fit perſon in ſuch Office.</p>
+            <p>From whence the Plaintiffs Councel would infer, that the King had a right to grant this Office; and that this Act was declara<g ref="char:EOLhyphen"/>tory of ſuch his right; and that all the Grants by the Chief Ju<g ref="char:EOLhyphen"/>ſtices ſince, were but uſurpations on the Crown; but no uſage of granting it by the Chief Juſtices, how long ſoever ſuch uſage hath been, would prevail againſt the Kings right.</p>
+            <p>To this the Defendants anſwered, That this Act was repealed, which appears by the Statute of 17 <hi>E.</hi> 3. Note, The reaſons of the Repeal are expreſſed; becauſe the ſaid Statute of 15 <hi>E.</hi> 3. is contray to the Law and Uſages of the Realm, and the Rights and Prerogatives of the King.</p>
+            <p>
+               <pb n="5" facs="tcp:153062:3"/>But for a full and plain anſwer,<note place="margin">
+                  <hi>Stat.</hi> 2 <hi>H.</hi> 4. made againſt the extortion of this Officer on the Crown ſide calls him Clerk of the Crown.</note> they ſhewed that the Office in queſtion was not the Office mentioned in that Act; for that Act mentions the Chief Clerk in the <hi>Kings Bench,</hi> which is the Clerk of the Crown, who is not only called the Chief Clerk, but in reallity is the Chief Clerk in that Court, and hath the preceden<g ref="char:EOLhyphen"/>cy of this Officer, both in Court and elſewhere. And the Officer whoſe Office is now in queſtion was never ſo much as called Chief Clerk in the <hi>Kings Bench:</hi> But it's true he is the chief of thoſe Clerks that are for the inrolling of Civil Pleas in that Court, and therefore is called Chief Clerk for the inrolling of Pleas, to di<g ref="char:EOLhyphen"/>ſtinguiſh him from the Under Clerks whoſe buſineſs is likewiſe to inroll Pleas there.</p>
+            <p>And the Defendants further inſiſted, that the uſage doth de<g ref="char:EOLhyphen"/>monſtrate that this Chief Clerk in the <hi>Kings Bench,</hi> in that Act named and intended, was the Clerk of the Crown in that Court; for that Office hath ever ſince been granted when void by the Kings Letters Patents, and that it was not this Officer that is na<g ref="char:EOLhyphen"/>med and intended by that Act; for that this Office was never enjoyed one day by vertue of any Grant from the Crown.</p>
+            <p>And the Defendants further inſiſted, that it was a ſcandal and unworthy imputation upon all thoſe Chief Juſtices, perſons of clear and unſpotted reputations to ſuggeſt that they would im<g ref="char:EOLhyphen"/>poſe upon the Crown, and uſurp upon it, if the right of grant<g ref="char:EOLhyphen"/>ing this Office had been in the Crown. And Sir <hi>Robert Heath,</hi> that was then the Kings Sollicitor took a grant of the Office in que<g ref="char:EOLhyphen"/>ſtion, from the Chief Juſtice; and upon his Admittance, the Chief Juſtices Right of granting is aſſerted upon Record.</p>
+            <p>And all this Evidence on both ſides being given, and fully heard, the Court briefly ſummed up the ſame, and particularly the Evidence of the Act 15 <hi>E.</hi> 3. and what was urged from the ſame by the Plaintiff and the Defendants anſwer thereunto, and left the matter to the Jury upon the whole Evidence: And this at the deſire of the Plaintiffs Councel.</p>
+            <p>The Jury withdrew, and after ſome time of Conſideration, gave a Verdict for the Defendants.</p>
+            <p>Upon this Verdict given, the Plaintiffs Councel prayed leave to bring in a Bill of Exceptions; and after ſeveral days meeting by the Plaintiffs Councel, they produced in Court, and tendred to the three Judges to be ſealed, a Parchment writing, which they called a Bill of Exceptions, formed in ſuch a manner, and ſtuffed with ſuch matter as was never before known; and is hoped, that for the honour of Juſtice, and for the ſake of Property, will never again be offered in any caſe. In which, after a re<g ref="char:EOLhyphen"/>cital of the Record of the Declaration and Iſſue in the Cauſe, it is alledged that the Plaintiffs Councel produced in Evidence the Grant of the Office to the Plaintiff, and ſhewed to the Court and Jury, that the Office is of the grant of the and Crown; that to make out the right of King <hi>Charles</hi> II. to grant this Office to
+<pb n="6" facs="tcp:153062:4"/>
+the Plaintiff, they gave in Evidence the Act of 15 <hi>E.</hi> 3. which in the Bill is ſet out at large, (and is in ſubſtance as is herein be<g ref="char:EOLhyphen"/>fore ſet forth) and in the Bill it is alledged, that the Juſtices re<g ref="char:EOLhyphen"/>fuſed to allow, admit, and receive the allegations and matters given in Evidence, as ſufficient to prove the Plaintiffs Title to this Office, by reaſon whereof the Jury found the Defendants did not diſſeiſe the Plaintiff. And the Bill prays that the Juſtices would put their Seals thereunto, according to the Staute of <hi>Weſtm.</hi> 2.</p>
+            <p>And the Juſtices, upon reading the Bill of Exceptions, refuſed to Seal it, and that upon very good reaſon: The matter and ground of that Bill being falſe, idle and frivolous. 1. Becauſe it is therein poſitively aſſerted that Mr. Attorney, and others the Plaintiffs Councel, did (beſides the Patent in queſtion, and the Act of 15 <hi>E.</hi> 3.) ſhew to the Court, and the Recognitors of the Aſ<g ref="char:EOLhyphen"/>ſize, that the Office was of the gift and grant of the King of <hi>England,</hi> whenſoever it ſhould be void. But there was no Evi<g ref="char:EOLhyphen"/>dence to ſhew any ſuch Right in the King, unleſs the Councels affirmation, without proof as well as reaſon, ſhall be accounted a demonſtration. 2. The allegation in the Bill is, (that the Juſtices refuſed to allow, admit, and receive the Allegations and Matters given in evidence for the Plaintiff, as ſufficient to main<g ref="char:EOLhyphen"/>tain his Title) if it be thereby intended that thoſe matters ſhew<g ref="char:EOLhyphen"/>ed by the Plaintiff in the Tryal of the Cauſe, were not by the Judges allowed and admitted to be Evidence, or to be given as Evidence. This is notoriouſly falſe in Fact, for as they were gi<g ref="char:EOLhyphen"/>ven in Evidence by the Plaintiff, ſo they were ſummed up by the Court in their directions to the Jury, as part of the Plaintiffs Evidence, together with the Defendants anſwer to them.</p>
+            <p>But if by that Allegation in the Bill it is intended, that the Court did not allow theſe matters ſhewed by the Plaintiff at the Tryal to be a ſufficient evidence to maintain his Title, this is as frivolous as the other was falſe: For it's not the buſineſs of the Court in Tryals to determine what Evidence is ſufficient to maintain the Title in queſtion; that is the work of the Ju<g ref="char:EOLhyphen"/>ry, unleſs it be referred to the Court, upon a Demurrer to the Evidence (in which caſe the Jury is diſcharged) which was not in this Caſe: But the matter upon the Plaintiff and Defendants Evidence was left fairly to the Jury, both for the truth and validity of it (as in ſuch Caſes it ought to be) and they having found the Defendants did not diſſeiſe the Plaintiff, if the Plaintiff conceive himſelf aggreived, he hath a plain reme<g ref="char:EOLhyphen"/>dy by an Attaint, wherein the truth or falſity, ſufficiency or in<g ref="char:EOLhyphen"/>ſufficiency, both of the Plaintiffs and Defendants evidence will be fairly tryed again by another Jury.<note place="margin">V. Stat. VVeſt. <hi>2.</hi> C. <hi>31.</hi>
+               </note> But no Bill of Exceptions will lye in ſuch Caſe, by the Statute, when the Evidence given is admitted as evidence, and left to a Jury by the Court.</p>
+            <p>And then to mend the matter, It is alledged as a fault of the
+<pb n="7" facs="tcp:153062:4"/>
+Judges, that they did not admit of Allegations, together with the matters given in evidence as ſufficient to maintain the Plain<g ref="char:EOLhyphen"/>tiffs Title, whereby it plainly appears, that the Plaintiffs Coun<g ref="char:EOLhyphen"/>cil would not rely upon the evidence given, but they were forced to ſupply the defect of it by bare Allegations. And this is the firſt time that ever Allegations were thought of any force to make out a Title, or to ſupply the defect of evidence: And if this ſhould be admitted, mens Titles may eaſily be defeated. By all which conſiderations, and divers other reaſons it will appear that this pretended Bill of exceptions is groundleſs, falſe and impertinent. And if the Juſtices had not refuſed to ſeal it, they had done an apparent injuſtice to the Defendants.</p>
+            <p>It is next to be conſidered, that unleſs the Judges, or one of them had ſealed it, the matter of it cannot be examined upon a writ of Error, for it is the Juſtices ſealing makes it aſſigneable upon Record, for ſo doth the Statute of <hi>Weſtm.</hi> 2. require. And if it be objected, that then it will be in the power of the Judges, by refuſing to ſeal the Bill, to deprive the party of the benefit of the Statute.</p>
+            <p>It is anſwered,<note place="margin">Reſp.</note> The party grieved may have his Action upon the Statute againſt the Judges that ſhall refuſe to ſeal a Bill, when by law they ought; and he ſhall recover damages proportion<g ref="char:EOLhyphen"/>able to the injury received.</p>
+            <p>If therefore the Plaintiff thinks himſelf aggrieved by the Judges, the courſe of common Juſtice is open, and he may pur<g ref="char:EOLhyphen"/>ſue his remedy, and have ſatisfaction if he be injured.</p>
+            <p>And there can be no failure of Juſtice, for the Judges may be ſued in either of the two Courts of <hi>Weſtminſter-Hall,</hi> in the <hi>Common Pleas,</hi> or the <hi>Exchequer;</hi> for the three Judges are to be Defendants. And the Chief Juſtice, tho not a party upon the Record, yet his Title and intereſt being the queſtion, he ought not to try the Action againſt the other Judges; therefore they are ouſted of having the priviledge of being ſued in the <hi>Kings Bench.</hi> There lyeth alſo a Writ out of <hi>Chancery,</hi> to com<g ref="char:EOLhyphen"/>mand the Judges to ſeal a Bill of Exceptions.</p>
+            <p>And this further obſervation may be added, that if the inhe<g ref="char:EOLhyphen"/>ritance of this Office may be granted (as it is by the Patent in queſtion, to the Plaintiff and his Heirs determinable upon three lives; and by another in Reverſion to <hi>Babington</hi> and his Heirs in truſt for the Earl of <hi>Arlington</hi> and his Heirs) it would be a great inconvenience, for then it may deſcend to Women and Children, who cannot be Clerks. And tho the Defendants did not take advantage of this upon the Tryal, yet are they not hindered from inſiſting upon it at any time, ſince it is a matter that appears up<g ref="char:EOLhyphen"/>on Record, and might have been moved in arreſt of Judgment, if a Verdict had been given againſt them. Moreover, it is to be obſerved, that if the Crown ſhould grant this Office, the Cheif Juſtice will be no longer anſwerable for the Keeping of the Re<g ref="char:EOLhyphen"/>cords, if the Officer ſhould be inſolvent.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Iſaac Cleave,</hi> next <hi>Serjeants</hi> Inn, in <hi>Chancery-lane,</hi> 1694.</p>
+            <pb facs="tcp:153062:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
